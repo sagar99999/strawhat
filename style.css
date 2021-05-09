@@ -16,3 +16,6 @@ body {
   font-weight: normal;
   text-decoration: none;
 }
+div {
+  font-size: 2rem;
+}
